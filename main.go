@@ -1,7 +1,7 @@
 package main
 
 import (
-	"fmt"
+	"fmt" // используем стандартную библиотеку GO fmt
 )
 
 func Add(a, b int) int {
